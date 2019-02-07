@@ -1,0 +1,2 @@
+# emucon
+My ConEmu configuration
